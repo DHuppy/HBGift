@@ -8,7 +8,7 @@ body {
 #cake {
   display: block;
   position: relative;
-  margin-top: -10em;
+  margin-top: -12em;
   margin-bottom: 0px;
   margin-left: 24.5%;
 }
@@ -26,8 +26,8 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: relative;
-  top: 247px;
-  margin-left: 49.5%;
+  top: 215px;
+  margin-left: 50.5%;
   width: 5px;
   height: 35px;
   -webkit-transform: translateY(-300px);
