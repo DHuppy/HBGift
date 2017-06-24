@@ -10,7 +10,7 @@ body {
   position: relative;
   margin-top: -10em;
   margin-bottom: 0px;
-  margin-left: 42.5%;
+  margin-left: 24.5%;
 }
 
 /* ============================================== Candle
@@ -278,13 +278,30 @@ body {
   }
 }
 
+/*.text {
+    color: #8b6a60;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;*/
+
 .happy {
 	position:absolute;
-	left:41%;
-	top:49%;
+	left:14%;
+	top:53%;
 	opacity: 1;
 	animation: happybirthdays 10s;
 	animation-delay: 0s;
+}
+.happy h1,h3 {
+  color: #8b6a60;
+    font-family: 'Lato', sans-serif;
+    font-weight: 10;
+    font-style: italic;
+    text-align: center;
+}
+.happy h1 {
+    font-size: 1.4em;
 }
 @keyframes happybirthdays {
 	0% {
