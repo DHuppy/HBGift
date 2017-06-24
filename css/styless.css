@@ -8,7 +8,7 @@ body {
 #cake {
   display: block;
   position: relative;
-  margin-top: -12em;
+  margin-top: -14em;
   margin-bottom: 0px;
   margin-left: 24.5%;
 }
@@ -26,7 +26,7 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: relative;
-  top: 215px;
+  top: 184px;
   margin-left: 50.5%;
   width: 5px;
   height: 35px;
@@ -287,7 +287,7 @@ body {
 
 .happy {
 	position:absolute;
-	left:14%;
+	left:16%;
 	top:53%;
 	opacity: 1;
 	animation: happybirthdays 10s;
